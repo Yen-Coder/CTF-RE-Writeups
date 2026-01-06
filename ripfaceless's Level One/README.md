@@ -1,3 +1,4 @@
+#crackmes-one
 This is a x86 PE files (32 bits), the challenge description said it's x86-64 (?).
 
 I simply opened Ghidra in Kali Linux.
