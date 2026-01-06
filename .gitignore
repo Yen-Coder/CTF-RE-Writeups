@@ -1,0 +1,6 @@
+.Dstore
+*/.vscode/
+*/*.claude/cache/
+*.log
+*/*.claude/
+*.env
