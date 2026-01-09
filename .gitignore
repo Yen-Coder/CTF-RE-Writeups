@@ -3,4 +3,5 @@
 */*.claude/cache/
 *.log
 */*.claude/
-*.env
+*.env0
+%APPDATA%
