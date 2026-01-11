@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flare-on/2025/1 - DrillBabyDrill.md",
+                "file": "OST2/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - DrillBabyDrill"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,15 @@
   },
   "active": "0b5d25d5b9c57532",
   "lastOpenFiles": [
+    "OST2/Architecture 1001 - x86-64 Assembly/README.md",
+    "00-screenshots/Screenshot 2026-01-11 195152.png",
+    "README.md",
+    "00-screenshots/Screenshot 2026-01-11 180002.png",
+    "OST2/README.md",
+    "OST2/Architecture 1001 - x86-64 Assembly/01-fibber.c",
+    "OST2/Architecture 1001 - x86-64 Assembly",
+    "Flare-on/2025/1 - DrillBabyDrill.md",
+    "OST2",
     "00-screenshots/2025-1-drill (8).png",
     "00-screenshots/2025-1-drill (7).png",
     "00-screenshots/2025-1-drill (6).png",
@@ -193,23 +202,15 @@
     "00-screenshots/2025-1-drill.png",
     "00-screenshots/2025-1-drill (3).png",
     "00-screenshots/2025-1-drill (2).png",
-    "00-screenshots/2025-1-drill (1).png",
     "Flare-on/2025/README.md",
-    "Flare-on/2025/1 - DrillBabyDrill.md",
     "crackmes/YandereMia's simple XOR crackme/README.md",
     "Flare-on/2025",
     "crackmes",
     "Flare-on",
     "crackmes/YandereMia's simple XOR crackme/test.c",
     "crackmes/YandereMia's simple XOR crackme/crack.c",
-    "00-screenshots/screenshots/xor (2) 1.png",
     "%APPDATA%/Code/machineid",
     "%APPDATA%/Code/logs/20260107T224311/cli.log",
-    "%APPDATA%/Code/logs/20260107T224311",
-    "%APPDATA%/Code/User",
-    "%APPDATA%/Code/logs",
-    "00-screenshots/screenshots/xor (33).png",
-    "crackmes/ripfaceless's Level One/README.md",
-    "README.md"
+    "crackmes/ripfaceless's Level One/README.md"
   ]
 }
